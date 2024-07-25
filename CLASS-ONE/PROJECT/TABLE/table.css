@@ -1,0 +1,92 @@
+/* thead {
+    background: SteelBlue;
+    color: white;
+  }
+  
+  th, td{
+    padding: 5px 10px;
+
+  }
+  
+  tbody tr:nth-child(even) {
+    background: lightblue;
+  }
+  
+  tbody tr td:nth-child(2) {
+    text-align:center;
+  }
+  
+  tbody tr td:nth-child(3),
+  tbody tr td:nth-child(4) {
+    text-align: right;
+  } */
+
+
+
+
+thead {
+    background: steelblue;
+    color: white;
+}
+
+th, td {
+    padding: 5px 10px;
+}
+
+
+thead tr th {
+    text-align: left;
+    padding: 10px;
+}
+
+tbody tr:nth-child(even) {
+    background-color: lightblue;
+}
+
+tbody tr td:nth-child(1) {
+    text-align: left;
+}
+
+tbody tr td:nth-child(2),
+tbody tr td:nth-child(3) {
+    text-align: left;
+}
+
+tbody tr td:nth-child(4) {
+    text-align: center;
+}
+
+tbody tr td:nth-child(5) {
+    text-align: center;
+}
+
+tbody tr td:nth-child(7) {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
